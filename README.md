@@ -1,7 +1,7 @@
 # pygcn_citeseer
 GCNs in PyTorch &amp;&amp; dataset is citeseer
 
-Note: There are subtle differences between the TensorFlow implementation in https://github.com/tkipf/gcn and this PyTorch re-implementation. This re-implementation serves as a proof of concept and is not intended for reproduction of the results reported in [1].
+Note: There are subtle differences between the TensorFlow implementation in https://github.com/tkipf/gcn and this PyTorch re-implementation. This re-implementation serves as a proof of concept and is not intended for reproduction of the results reported in [1]  .
 
 ## dataset
 citeseer in http://www.cs.umd.edu/~sen/lbc-proj/data/citeseer.tgz
@@ -17,9 +17,8 @@ citeseer in http://www.cs.umd.edu/~sen/lbc-proj/data/citeseer.tgz
 ```
 ## References
 
-[1] [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
+[1]  [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
 
-[2] [Sen et al., Collective Classification in Network Data, AI Magazine 2008](http://linqs.cs.umd.edu/projects/projects/lbc/)
 
 ## Usage
 ```
