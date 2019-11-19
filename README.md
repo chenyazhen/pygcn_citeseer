@@ -15,4 +15,16 @@ citeseer in http://www.cs.umd.edu/~sen/lbc-proj/data/citeseer.tgz
   year={2016}
 }
 ```
+## References
+
+[1] [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
+
+[2] [Sen et al., Collective Classification in Network Data, AI Magazine 2008](http://linqs.cs.umd.edu/projects/projects/lbc/)
+
+## Usage
+```
+python train.py
+accuracy ~= 0.5950
+```
+
 
